@@ -24,3 +24,17 @@
 /vdmx /lfo.4/time 0;
 /vdmx /lfo.5/time 0;
 /vdmx /lfo.6/time 0;
+/vdmx /layer.1/alpha 0.;
+/vdmx /layer.2/alpha 0.;
+/vdmx /layer.3/alpha 0.;
+/vdmx /layer.4/alpha 0.;
+/vdmx /layer.5/alpha 0.;
+/vdmx /layer.6/alpha 0.;
+/vdmx /layer.7/alpha 0.;
+/vdmx /layer.8/alpha 0.;
+/vdmx /layer.9/alpha 0.;
+/vdmx /layer.10/alpha 0.;
+/vdmx /layer.11/alpha 0.;
+/vdmx /layer.12/alpha 0.;
+/vdmx /face/alpha 0.;
+/vdmx /lointain/alpha 0.;
