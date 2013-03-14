@@ -15,8 +15,6 @@
 /vdmx /lfo.4/play 0;
 /vdmx /lfo.6/play 0;
 200;
-/vdmx /40 1;
-200;
 /vdmx /lfo.1/loopmode Once;
 /vdmx /lfo.1/play 0;
 /vdmx /lfo.1/direction 0;
@@ -43,4 +41,6 @@
 /vdmx /lfo.6/time 0;
 /vdmx /lfo.6/rate 1;
 300;
+/vdmx /40 1;
+200;
 /vdmx /face/alpha 1.;
