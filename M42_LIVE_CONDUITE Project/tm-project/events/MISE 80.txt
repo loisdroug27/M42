@@ -54,8 +54,6 @@
 /vdmx /radius 0.;
 /vdmx /fadebruit 0.;
 /vdmx /color80 1.;
-/vdmx /neon 0.;
-/vdmx /twirl 0.;
 100;
 /vdmx /MultiBall/x 0.819;
 /vdmx /MultiBall/y 0.306;
