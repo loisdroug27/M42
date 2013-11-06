@@ -1,8 +1,9 @@
 /vdmx /lfo/33 1;
 500;
-/vdmx /33 1;
-500;
 /vdmx /lfo.5/loopmode Once;
+/vdmx /lfo.5/time 0.;
+500;
+/vdmx /33 1;
 100;
 /vdmx /carre 0.;
 300;

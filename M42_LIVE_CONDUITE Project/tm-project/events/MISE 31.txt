@@ -1,13 +1,13 @@
-/vdmx /eject1 1;
-/vdmx /eject2 1;
-/vdmx /eject3 1;
+/vdmx /comp/32 1;
+200;
 /vdmx /eject5 1;
 /vdmx /eject7 1;
 /vdmx /eject8 1;
 /vdmx /eject9 1;
 /vdmx /eject10 1;
+300;
 /vdmx /lfo/31 1;
-/vdmx /comp/32 1;
+300;
 /vdmx /lfo.3/loopmode Once;
 /vdmx /lfo.3/play 0;
 /vdmx /lfo.3/direction 0;
